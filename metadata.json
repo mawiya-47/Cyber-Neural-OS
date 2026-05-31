@@ -1,0 +1,6 @@
+{
+  "name": "Neural X Operating System",
+  "description": "Futuristic AI-powered cybersecurity operating system with live threat maps, neural monitoring, dynamic radar simulation, interactive military terminal, and a holographic Gemini protection assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
